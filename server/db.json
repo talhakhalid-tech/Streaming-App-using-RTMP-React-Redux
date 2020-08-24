@@ -1,0 +1,40 @@
+{
+  "streams": [
+    {
+      "title": "stream1",
+      "description": "my first stream",
+      "userId": "106305093132759357032",
+      "id": 9
+    },
+    {
+      "title": "stream1",
+      "description": "my first stream from other account",
+      "userId": "113745833407347273383",
+      "id": 10
+    },
+    {
+      "title": "bla",
+      "description": "bla bla",
+      "userId": "117610323848637931174",
+      "id": 11
+    },
+    {
+      "title": "ali",
+      "description": "ali",
+      "userId": "117610323848637931174",
+      "id": 12
+    },
+    {
+      "title": "asdas",
+      "description": "ascas",
+      "userId": "117610323848637931174",
+      "id": 13
+    },
+    {
+      "title": "asdfas",
+      "description": "sadasd",
+      "userId": "106305093132759357032",
+      "id": 14
+    }
+  ]
+}
